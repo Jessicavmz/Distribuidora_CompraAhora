@@ -1,0 +1,7 @@
+#envios{
+    background-color: var(--color5);
+    color: var(--color-blanco);
+}
+#envios .table{
+    color: var(--color-blanco);
+}
