@@ -1,0 +1,9 @@
+#contacto{
+    background-color: var(--color1);
+    color: var(--color-blanco);
+    margin-top: 0px !important;
+}
+#contacto .padded {
+    padding-top: none;
+    padding-bottom: 90px;
+}

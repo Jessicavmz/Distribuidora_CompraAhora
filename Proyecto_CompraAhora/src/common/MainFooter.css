@@ -1,0 +1,5 @@
+#main-footer{
+    background-color: var(--gris-oscuro);
+    color: var(--gris-claro);
+    padding: 45px 0;
+}
